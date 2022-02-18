@@ -1,5 +1,6 @@
 # minishop
 Minishop test
+Products list with product attributes using EAV - Entity/Attribute/Value Design Pattern
 
 ## Deploy instructions
 
