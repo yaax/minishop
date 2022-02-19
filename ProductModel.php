@@ -117,7 +117,7 @@ SQL;
 			if($id) {
 				$attr_count = AttributeModel::insert($id,$input);
 
-				$result .= " product was created. Id=$id with $attr_count attributes";
+				$result .= " product {$input['title']} was created. With $attr_count attributes";
 			}
 		}
 
