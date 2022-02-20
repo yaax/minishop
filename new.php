@@ -41,11 +41,6 @@ if (!empty($_POST)) {
         {
             margin-top: 10px;
         }
-
-        .glyphicon
-        {
-            font-size: 12px;
-        }
 	</style>
 
 </head>
